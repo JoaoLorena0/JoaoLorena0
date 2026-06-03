@@ -1,94 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:7EC8FF,45:E9F7FF,100:77FF8A&text=Joao%20Lorena%20-%20MSN%202000&fontColor=003C7A&fontSize=34&fontAlignY=55" width="100%" alt="Joao Lorena MSN 2000 banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:111827,35:2563EB,70:22C55E,100:FACC15&text=JOAO%20LORENA%20-%202D%20DEV%20QUEST&fontColor=FFFFFF&fontSize=34&fontAlignY=55" width="100%" alt="Joao Lorena 2D game banner" />
+
+```txt
+PRESS START
+PLAYER: JoaoLorena0
+CLASS: Front-End Developer
+STACK: Angular | React | Python
+WORLD: GitHub Pages
+```
 
 </div>
 
-<table width="100%">
+## Player Card
+
+<table>
   <tr>
-    <td bgcolor="#0057B8">
-      <font color="#FFFFFF"><b> MSN Messenger - JoaoLorena0 </b></font>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#EAF6FF">
+    <td width="190" align="center" bgcolor="#0F172A">
 
 ```txt
-Status: Online
-Nick: Joao Lorena
-Subnick: Front-End, Angular, React e Python
-Ouvindo agora: som de login do Windows XP
-Vibe: internet 2000 / MSN / lan house / portfolio.exe
+  O
+ /|\
+ / \
+```
+
+<b><font color="#FFFFFF">JOAO</font></b><br>
+<font color="#86EFAC">LVL: DEV</font>
+
+  </td>
+  <td bgcolor="#F8FAFC">
+
+**Joao Lorena** e um desenvolvedor em evolucao, focado em **Front-End** e interfaces web com personalidade.
+
+Gosto de transformar ideias em telas jogaveis para o usuario: claras, funcionais e com aquele toque visual que faz a experiencia ganhar vida.
+
+```txt
+MISSION LOG:
+> criar interfaces modernas
+> evoluir com Angular, React e Python
+> publicar projetos e aprender em cada fase
 ```
 
   </td>
   </tr>
 </table>
 
-## Quem sou eu
-
-Oi, eu sou **Joao Lorena**.
-
-Desenvolvo projetos com foco em **Front-End**, criando interfaces com **Angular**, **React** e um pouco de **Python** no caminho. Gosto de telas organizadas, funcionais e com personalidade, naquele clima de internet antiga encontrando web moderna.
-
-```txt
-joao_lorena says:
-"transformando ideias em paginas, componentes e experiencias web."
-```
-
-## Minha barra de ferramentas
-
-![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=BDE7FF)
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=0078D7&labelColor=BDE7FF)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=BDE7FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=E6B800&labelColor=BDE7FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=BDE7FF)
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=BDE7FF)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=BDE7FF)
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032&labelColor=BDE7FF)
-
-## Atalhos da area de trabalho
+## Inventory
 
 <table>
   <tr>
-    <td width="50%" bgcolor="#F4FBFF">
-      <b>Boto Guardiao</b><br>
-      Projeto web publicado no GitHub Pages.<br><br>
-      <a href="https://joaolorena0.github.io/Boto-Guardiao/">Abrir atalho</a>
-    </td>
-    <td width="50%" bgcolor="#F4FBFF">
-      <b>Portfolio Fatec DSM</b><br>
-      Portfolio academico com projetos e evolucao durante o curso.<br><br>
-      <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001">Abrir atalho</a>
-    </td>
+    <td align="center" bgcolor="#DBEAFE"><b>Slot 01</b><br>Angular<br><img src="https://cdn.simpleicons.org/angular/DD0031" width="36" alt="Angular" /></td>
+    <td align="center" bgcolor="#DCFCE7"><b>Slot 02</b><br>React<br><img src="https://cdn.simpleicons.org/react/087EA4" width="36" alt="React" /></td>
+    <td align="center" bgcolor="#FEF3C7"><b>Slot 03</b><br>Python<br><img src="https://cdn.simpleicons.org/python/3776AB" width="36" alt="Python" /></td>
+    <td align="center" bgcolor="#E0F2FE"><b>Slot 04</b><br>Front-End<br><img src="https://cdn.simpleicons.org/html5/E34F26" width="36" alt="HTML5" /></td>
   </tr>
 </table>
 
-## Painel de atividades
+![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=FF4D6D)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=FB923C)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
+
+## Stage Select
+
+<table>
+  <tr>
+    <td width="50%" bgcolor="#ECFDF5">
+
+### Stage 1: Boto Guardiao
+
+```txt
+Map: GitHub Pages
+Status: publicado
+Reward: projeto web online
+```
+
+[Entrar na fase](https://joaolorena0.github.io/Boto-Guardiao/)
+
+  </td>
+  <td width="50%" bgcolor="#EFF6FF">
+
+### Stage 2: Portfolio Fatec DSM
+
+```txt
+Map: portfolio academico
+Status: publicado
+Reward: evolucao documentada
+```
+
+[Entrar na fase](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001)
+
+  </td>
+  </tr>
+</table>
+
+## Save Data
 
 <div align="center">
 
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLorena0&show_icons=true&theme=default&hide_border=false&title_color=0057B8&icon_color=00A86B&text_color=003C7A&bg_color=EAF6FF)
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLorena0&show_icons=true&theme=github_dark&hide_border=true&title_color=FACC15&icon_color=22C55E&text_color=E5E7EB&bg_color=111827)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLorena0&layout=compact&theme=default&hide_border=false&title_color=0057B8&text_color=003C7A&bg_color=EAF6FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLorena0&layout=compact&theme=github_dark&hide_border=true&title_color=FACC15&text_color=E5E7EB&bg_color=111827)
 
 </div>
 
-## Contatos
+## Multiplayer Links
 
-[![LinkedIn](https://img.shields.io/badge/MSN_contato-LinkedIn-0057B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lorena-056b95271)
-[![Portfolio](https://img.shields.io/badge/Meu_site-Portfolio-00A86B?style=for-the-badge&logo=githubpages&logoColor=white)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001)
-[![Boto Guardiao](https://img.shields.io/badge/Projeto-Boto_Guardiao-FFB000?style=for-the-badge&logo=github&logoColor=003C7A)](https://joaolorena0.github.io/Boto-Guardiao/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lorena-056b95271)
+[![Portfolio](https://img.shields.io/badge/Open-Portfolio-22C55E?style=for-the-badge&logo=githubpages&logoColor=white)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001)
+[![Boto Guardiao](https://img.shields.io/badge/Play-Boto_Guardiao-FACC15?style=for-the-badge&logo=github&logoColor=111827)](https://joaolorena0.github.io/Boto-Guardiao/)
 
 ---
 
 <div align="center">
 
 ```txt
-Voce acabou de visualizar o perfil de JoaoLorena0.
-Obrigado pela visita. Volte sempre :)
+THANKS FOR PLAYING
+continue?  yes
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:BDE7FF,50:FFFFFF,100:77FF8A&text=online%20since%20internet%202000&fontColor=003C7A&fontSize=18" width="100%" alt="online since internet 2000 footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:FACC15,40:22C55E,100:2563EB&text=next%20level%20loading...&fontColor=111827&fontSize=18" width="100%" alt="next level loading footer" />
 
 </div>
