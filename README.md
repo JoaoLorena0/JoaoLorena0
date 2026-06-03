@@ -8,8 +8,6 @@ I build responsive, accessible and user-focused web interfaces, with a strong in
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lorena-056b95271)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001)
-[![GitHub Pages](https://img.shields.io/badge/Featured_project-Boto_Guardiao-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://joaolorena0.github.io/Boto-Guardiao/)
-
 </div>
 
 ---
