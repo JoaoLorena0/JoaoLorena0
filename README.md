@@ -1,38 +1,24 @@
 <p align="center">
-  <img src="SEU_BANNER_AQUI" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF00FF&height=180&section=header&text=João%20Lorena&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h1 align="center">✦ João Lorena ✦</h1>
+<h3 align="center">Front-End Developer | Angular | React | Python</h3>
 
 <p align="center">
-  dev em construção • estudante • criando coisas com código
+  <a href="https://joaolorena0.github.io/Boto-Guardiao/">Botô Guardião</a>
+  •
+  <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001">Portfolio DSM</a>
+  •
+  <a href="https://www.linkedin.com/in/joão-lorena-056b95271">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-ff5c8a?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-4d9fff?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
 ---
 
-### 🖥️ sobre mim
+### SYSTEM PROFILE
 
-- estudando desenvolvimento
-- gosto de interfaces, jogos e projetos criativos
-- atualmente mexendo com Angular, React, Python, FrontEnd e 
-
----
-
-### 💿 projetos em destaque
-
-| projeto | descrição |
-|---|---|
-| [`Boto Guardião` | jogo/shmup com tema ODS](https://joaolorena0.github.io/Boto-Guardiao/) |
-| [`Portfólio` | meu espaço pessoal na web](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001) |
-
----
-
-### 🌐 links
-
-[portfolio](#https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001) • [linkedin](#www.linkedin.com/in/joão-lorena-056b95271)
+```txt
+user: JoaoLorena0
+role: Front-End Developer
+stack: Angular, React, Python
+mode: cyber_y2k
+status: building interfaces and learning every day
