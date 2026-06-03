@@ -1,72 +1,94 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F5FF,45:FF00E6,100:7CFF00&text=JOAO%20LORENA&fontColor=0B0B10&fontSize=42&fontAlignY=35&animation=twinkling" width="100%" alt="Joao Lorena cyber y2k banner" />
-
-```txt
-> booting profile.exe
-> user: JoaoLorena0
-> mode: FrontEnd / Angular / React / Python
-> aesthetic: cyber y2k neon interface
-```
-
-## Sobre mim
-
-Oi, eu sou **Joao Lorena**.
-
-Estudo e desenvolvo projetos com foco em **Front-End**, misturando interfaces modernas com uma vibe visual mais experimental. Gosto de transformar ideias em telas funcionais, organizadas e com personalidade.
-
-Meu stack principal passa por **Angular**, **React** e **Python**, com interesse em experiencias web bonitas, acessiveis e bem construidas.
-
-## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=900&color=00F5FF&width=700&lines=Angular+%2F+React+%2F+Python;Front-End+developer+em+evolucao;Cyber+Y2K+interface+energy" alt="Typing SVG" />
-
-## Tech Stack
-
-![Angular](https://img.shields.io/badge/Angular-0B0B10?style=for-the-badge&logo=angular&logoColor=FF00E6)
-![React](https://img.shields.io/badge/React-0B0B10?style=for-the-badge&logo=react&logoColor=00F5FF)
-![Python](https://img.shields.io/badge/Python-0B0B10?style=for-the-badge&logo=python&logoColor=7CFF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0B10?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0B10?style=for-the-badge&logo=typescript&logoColor=00F5FF)
-![HTML5](https://img.shields.io/badge/HTML5-0B0B10?style=for-the-badge&logo=html5&logoColor=FF5F1F)
-![CSS3](https://img.shields.io/badge/CSS3-0B0B10?style=for-the-badge&logo=css3&logoColor=00F5FF)
-![Git](https://img.shields.io/badge/Git-0B0B10?style=for-the-badge&logo=git&logoColor=FF00E6)
-
-## Projetos em destaque
-
-### Boto Guardiao
-
-Projeto web publicado no GitHub Pages.
-
-**Acesse:** [joaolorena0.github.io/Boto-Guardiao](https://joaolorena0.github.io/Boto-Guardiao/)
-
-### Portfolio Fatec DSM
-
-Portfolio academico com projetos e evolucao durante o curso.
-
-**Acesse:** [fatec-jacarei-dsm-portfolio.github.io/ra2581392523001](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001)
-
-## GitHub Status
-
 <div align="center">
 
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLorena0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=FF00E6&text_color=F5F5F5&bg_color=0B0B10)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLorena0&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=F5F5F5&bg_color=0B0B10)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:7EC8FF,45:E9F7FF,100:77FF8A&text=Joao%20Lorena%20-%20MSN%202000&fontColor=003C7A&fontSize=34&fontAlignY=55" width="100%" alt="Joao Lorena MSN 2000 banner" />
 
 </div>
 
-## Links
+<table width="100%">
+  <tr>
+    <td bgcolor="#0057B8">
+      <font color="#FFFFFF"><b> MSN Messenger - JoaoLorena0 </b></font>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#EAF6FF">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B10?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/jo%C3%A3o-lorena-056b95271)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B10?style=for-the-badge&logo=githubpages&logoColor=7CFF00)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001)
-[![Boto Guardiao](https://img.shields.io/badge/Boto_Guardiao-0B0B10?style=for-the-badge&logo=github&logoColor=FF00E6)](https://joaolorena0.github.io/Boto-Guardiao/)
+```txt
+Status: Online
+Nick: Joao Lorena
+Subnick: Front-End, Angular, React e Python
+Ouvindo agora: som de login do Windows XP
+Vibe: internet 2000 / MSN / lan house / portfolio.exe
+```
+
+  </td>
+  </tr>
+</table>
+
+## Quem sou eu
+
+Oi, eu sou **Joao Lorena**.
+
+Desenvolvo projetos com foco em **Front-End**, criando interfaces com **Angular**, **React** e um pouco de **Python** no caminho. Gosto de telas organizadas, funcionais e com personalidade, naquele clima de internet antiga encontrando web moderna.
+
+```txt
+joao_lorena says:
+"transformando ideias em paginas, componentes e experiencias web."
+```
+
+## Minha barra de ferramentas
+
+![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=BDE7FF)
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=0078D7&labelColor=BDE7FF)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=BDE7FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=E6B800&labelColor=BDE7FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=BDE7FF)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=BDE7FF)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=BDE7FF)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032&labelColor=BDE7FF)
+
+## Atalhos da area de trabalho
+
+<table>
+  <tr>
+    <td width="50%" bgcolor="#F4FBFF">
+      <b>Boto Guardiao</b><br>
+      Projeto web publicado no GitHub Pages.<br><br>
+      <a href="https://joaolorena0.github.io/Boto-Guardiao/">Abrir atalho</a>
+    </td>
+    <td width="50%" bgcolor="#F4FBFF">
+      <b>Portfolio Fatec DSM</b><br>
+      Portfolio academico com projetos e evolucao durante o curso.<br><br>
+      <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001">Abrir atalho</a>
+    </td>
+  </tr>
+</table>
+
+## Painel de atividades
+
+<div align="center">
+
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLorena0&show_icons=true&theme=default&hide_border=false&title_color=0057B8&icon_color=00A86B&text_color=003C7A&bg_color=EAF6FF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLorena0&layout=compact&theme=default&hide_border=false&title_color=0057B8&text_color=003C7A&bg_color=EAF6FF)
+
+</div>
+
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/MSN_contato-LinkedIn-0057B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lorena-056b95271)
+[![Portfolio](https://img.shields.io/badge/Meu_site-Portfolio-00A86B?style=for-the-badge&logo=githubpages&logoColor=white)](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523001)
+[![Boto Guardiao](https://img.shields.io/badge/Projeto-Boto_Guardiao-FFB000?style=for-the-badge&logo=github&logoColor=003C7A)](https://joaolorena0.github.io/Boto-Guardiao/)
 
 ---
 
 <div align="center">
 
 ```txt
-01001010 01001111 01000001 01001111
-frontend signal online
+Voce acabou de visualizar o perfil de JoaoLorena0.
+Obrigado pela visita. Volte sempre :)
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7CFF00,45:FF00E6,100:00F5FF" width="100%" alt="Cyber y2k footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:BDE7FF,50:FFFFFF,100:77FF8A&text=online%20since%20internet%202000&fontColor=003C7A&fontSize=18" width="100%" alt="online since internet 2000 footer" />
 
 </div>
