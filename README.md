@@ -59,10 +59,9 @@ Areas I am especially interested in:
 
 <div align="center">
 
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLorena0&show_icons=true&theme=github_dark&hide_border=true&title_color=60A5FA&icon_color=22C55E&text_color=E5E7EB&bg_color=111827)
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLorena0&show_icons=true&theme=github_dark&hide_border=true&title_color=60A5FA&icon_color=22C55E&text_color=E5E7EB&bg_color=111827&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLorena0&layout=compact&theme=github_dark&hide_border=true&title_color=60A5FA&text_color=E5E7EB&bg_color=111827)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLorena0&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&theme=github_dark&hide_border=true&title_color=60A5FA&text_color=E5E7EB&bg_color=111827&cache_seconds=21600)
 </div>
 
 ## Contact
